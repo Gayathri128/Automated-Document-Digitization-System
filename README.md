@@ -1,4 +1,4 @@
-# Automated Handwritten Logs and Notes to Excel and PDF Converter
+# Automated Document Digitization System
 
 This project digitizes handwritten documents by:
 - Extracting text and saving it as a PDF.
