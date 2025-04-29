@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+pillow
+google-cloud-vision
+fpdf
+boto3
+pandas
+xlsxwriter
